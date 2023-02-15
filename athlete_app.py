@@ -139,6 +139,8 @@ st.header('Olympic History Dashboard')
 
 st.subheader('Created by Iman Javaid')
 
+st.text('Historical Dataset on the Modern Olympic Games, including all the Games from Athens 1896 to Rio 2016')
+
 st.markdown('\n')
 st.markdown('\n')
 
